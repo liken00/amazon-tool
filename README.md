@@ -1,29 +1,28 @@
-# Amazon Product Analyzer
+# Amazon FBA Profit Calculator
 
-AI-powered Amazon product competitive analysis tool.
+AI-powered Amazon FBA fee calculator with 2026 latest rates.
 
-Input an ASIN → Get complete analysis report in 5 minutes.
+**Live Tool:** https://liken00.github.io/amazon-tool/
 
-**Features:**
-- Sales volume estimation
-- Review analysis & sentiment
-- Optimization suggestions
-- Competitor comparison
+## Features
 
-**Demo:** https://liken00.github.io/amazon-tool/
+- ✅ 2026 latest Amazon FBA fee schedule (Referral Fee + Fulfillment Fee + Storage)
+- ✅ Real-time profit & ROI calculation
+- ✅ Multi-category support (Electronics, Beauty, Kitchen, Apparel, etc.)
+- ✅ Size tier detection (Standard/Oversize)
+- ✅ Mobile-optimized H5 interface
 
-**Pricing:** $29 one-time / $79/month
+## Pricing
 
----
+- **Free:** Unlimited basic calculations
+- **Pro ($49 one-time):** Batch calculation, product comparison, Excel export
 
-## API
+## Use Case
 
-This tool is backed by a Python scraper + AI analysis pipeline.
-
-For API access, contact: `@xiaoGua` on Telegram/Twitter
+Input your product cost → Get instant FBA fee breakdown → Know your real profit margin before launching.
 
 ## Tech Stack
 
-- HTML/CSS/JS (frontend)
-- Python (scraping + AI analysis)
-- GitHub Pages (hosting)
+- Pure HTML/CSS/JS (no backend required)
+- GitHub Pages (zero hosting cost)
+- 2026 Amazon US Fee Schedule
